@@ -1,0 +1,11 @@
+/*
+!/.gitignore
+!/README.md
+!/hw1/
+!/hw2/
+
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.py[cod]
+/hw2/mlchem-2024fall_v1/GTEx_gene_amygdala_tpm_v8.gct

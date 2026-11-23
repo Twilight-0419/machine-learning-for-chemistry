@@ -1,0 +1,12 @@
+name: mlchem
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - scikit-learn>=1.8,<1.10
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - ipykernel
